@@ -4,10 +4,11 @@
 # How to use
 
 1. Download the latest version of _mieq-vx.x.x.jar_ file available in the Releases page.
-2. Move the download .jar file into the following project:
-    ``<your_project>/libs/``
+2. Move the download .jar file into the following folder:
+    ``<your_project>/build/libs/``
     
-    - 'libs' can be any folder created by the user. This is just a suggestion.
+    - If you don't want to use the suggested path you can create another folder for external libraries. You only have to add that custom folder as a library folder by right-clicking the folder and choosing 'Add as Library' option.
+      - <img src="https://github.com/zaytiri/MIEQ/blob/main/readme-images/1.png" width="200" height="400" />
 3. Add the following dependency in your project's build.gradle:
     ```
     dependencies {
