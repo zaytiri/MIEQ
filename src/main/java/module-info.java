@@ -1,4 +1,4 @@
-module MIEQ.main {
+module MIEQ {
     requires org.json;
     requires java.sql;
 
