@@ -2,6 +2,9 @@ package personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.
 
 import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.*;
 import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.base.IGenericClauses;
+import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.enums.Clause;
+import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.enums.Operators;
+import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.enums.Order;
 import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.schema.Column;
 import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.schema.Table;
 import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.response.Response;

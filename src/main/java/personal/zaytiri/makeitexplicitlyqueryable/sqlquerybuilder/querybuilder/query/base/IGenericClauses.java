@@ -1,6 +1,6 @@
 package personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.base;
 
-import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.Operators;
+import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.enums.Operators;
 import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.QueryBuilder;
 import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.schema.Column;
 

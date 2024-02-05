@@ -1,5 +1,7 @@
 package personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query;
 
+import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.enums.Clause;
+import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.enums.Operators;
 import personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.schema.Column;
 
 import java.util.List;

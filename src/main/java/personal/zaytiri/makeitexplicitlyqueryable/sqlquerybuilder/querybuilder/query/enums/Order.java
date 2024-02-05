@@ -1,4 +1,4 @@
-package personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query;
+package personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.enums;
 
 public enum Order {
     ASCENDING("ASC"),
