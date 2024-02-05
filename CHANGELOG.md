@@ -11,6 +11,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed
 - Removed
 
+## [1.0.1] - 2024-02-05
+
+### Changed
+- Change module name to be imported from "MIEQ.main" to "MIEQ". This changes the usage in module-info.java from ``requires MIEQ.main;`` to ``requires MIEQ;``
+
 ## [1.0.0] - 2024-02-05
 
 ### Added
