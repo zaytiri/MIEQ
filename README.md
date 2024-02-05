@@ -9,12 +9,13 @@
     
     - If you don't want to use the suggested path you can create another folder for external libraries. You only have to add that custom folder as a library folder by right-clicking the folder and choosing 'Add as Library' option.
       - <img src="https://github.com/zaytiri/MIEQ/blob/main/readme-images/1.png" width="200" height="400" />
-3. Add the following dependency in your project's build.gradle:
+3. Add the following dependency in your project's _build.gradle_ file:
     ```
     dependencies {
         implementation files('build/libs/mieq-vx.x.x.jar')
     }
     ```
 4. Reload Gradle.
+5. Add ``requires MIEQ;`` in your _module-info.java_ file.
 
 Note: Replace the _vx.x.x_ for the downloaded version.
