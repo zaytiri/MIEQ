@@ -12,7 +12,7 @@
 3. Add the following dependency in your project's build.gradle:
     ```
     dependencies {
-        implementation files('libs/mieq-vx.x.x.jar')
+        implementation files('build/libs/mieq-vx.x.x.jar')
     }
     ```
 4. Reload Gradle.
