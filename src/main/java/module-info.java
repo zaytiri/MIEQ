@@ -4,6 +4,7 @@ module MIEQ.main {
 
     exports personal.zaytiri.makeitexplicitlyqueryable.pairs;
     exports personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.builders;
+    exports personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.query.enums;
     exports personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.querybuilder.schema;
     exports personal.zaytiri.makeitexplicitlyqueryable.sqlquerybuilder.response;
 }
