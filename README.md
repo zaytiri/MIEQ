@@ -3,6 +3,8 @@
 
 # How to use
 
+## IntelliJ IDE
+
 1. Download the latest version of _mieq-vx.x.x.jar_ file available in the Releases page.
 2. Move the download .jar file into the following folder:
     ``<your_project>/build/libs/``
@@ -19,3 +21,7 @@
 5. Add ``requires MIEQ;`` in your _module-info.java_ file.
 
 Note: Replace the _vx.x.x_ for the downloaded version.
+
+## Android Studio
+
+Follow the steps in [this link](https://www.geeksforgeeks.org/how-to-import-external-jar-files-in-android-studio/).
